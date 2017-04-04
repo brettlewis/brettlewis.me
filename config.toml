@@ -1,0 +1,4 @@
+title = "Brett Lewis"
+baseURL = "http://brettlewis.me/"
+languageCode = "en-us"
+theme = "hugo-strata-theme"
