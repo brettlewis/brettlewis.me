@@ -1,4 +1,4 @@
-baseurl = "https://brettlewis.me/"
+baseurl = "http://brettlewis.me/"
 languageCode = "en-us"
 title = "Brett Lewis"
 theme = "hugo-strata-theme"
