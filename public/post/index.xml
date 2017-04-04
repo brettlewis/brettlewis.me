@@ -19,5 +19,15 @@
 </description>
     </item>
     
+    <item>
+      <title>helloworld 2</title>
+      <link>http://brettlewis.me/post/helloworld/</link>
+      <pubDate>Fri, 31 Mar 2017 21:09:05 -0700</pubDate>
+      
+      <guid>http://brettlewis.me/post/helloworld/</guid>
+      <description>&lt;p&gt;testing content 2.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
