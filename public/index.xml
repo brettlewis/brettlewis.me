@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brett Lewis</title>
+    <link>http://brettlewis.me/index.xml</link>
+    <description>Recent content on Brett Lewis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Apr 2017 18:38:44 -0700</lastBuildDate>
+    <atom:link href="http://brettlewis.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>http://brettlewis.me/post/welcome/</link>
+      <pubDate>Mon, 03 Apr 2017 18:38:44 -0700</pubDate>
+      
+      <guid>http://brettlewis.me/post/welcome/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fringilla lorem eget rutrum vehicula. Nullam in consectetur urna, at dapibus neque. Maecenas bibendum metus nisi, vel rutrum augue scelerisque ac. In faucibus dapibus risus, ac mollis est ornare ac. Pellentesque magna metus, posuere eget pharetra ut, iaculis eget dui. Nulla facilisi. In et quam mi. Suspendisse condimentum sem nec venenatis pellentesque. Nullam porttitor aliquet urna, nec viverra arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean quis sollicitudin magna, ut sodales leo. Pellentesque congue, enim at faucibus sollicitudin, turpis eros convallis massa, non luctus orci ipsum id odio.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
